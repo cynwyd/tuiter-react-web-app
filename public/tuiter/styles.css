@@ -1,0 +1,15 @@
+.wd-bordercolor {
+  border-color:rgb(47, 51, 54);
+}
+
+.wd-maindiv {
+  padding:16px;
+  height:100%;
+  border-style:solid;
+  border-width:2px;
+}
+
+.wd-border {
+  border-style:solid;
+  border-width:2px;
+}

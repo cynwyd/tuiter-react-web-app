@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+}
+
+html {
+  background-color:black;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+.wd-nopaddingtop {
+  padding-top:0px!important;
+}
+
+.wd-bordercolor {
+  border-color:rgb(47, 51, 54);
+}
+
+.wd-bookmark-div {
+  padding-top:12px !important;
+  padding-bottom:12px !important;
+}
+
+.wd-bookmark-div h1 {
+  font-size:20px;
+}
+
+.wd-bookmark-div p {
+  font-size:13px;
+}
+
+.wd-font-white {
+  color:white;
+}
+
+.wd-font-gray {
+  color:rgb(110, 118, 125);
+}
+
+h1 {
+  margin:0;
+}
+
+p {
+  margin:0;
+}
+
+#wd-avatar-div {
+  float:left;
+  width: 76px;
+  height:100vh;
+}
+
+#wd-bookmark-content {
+  
+}
+
+.wd-avatar-img {
+  border-radius: 50%;
+  position:relative;
+  top:12px;
+  left:16px;
+}
+
+.wd-bookmark-author-div {
+  margin-top:12px;
+}
+
+.wd-bookmark-author {
+  margin-top:0px;
+  margin-bottom:0px;
+  font-size:15px;
+  float:left;
+}
+
+.wd-bookmark-author-info {
+  display:inline;
+  font-size:15px;
+}
+
+.wd-bookmark-content-p {
+  width:506px;
+  margin-left:74px;
+  font-size:15px;
+}
+
+.wd-bookmark-content-img {
+  margin-top:12px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-width:1px;
+  border-style:solid;
+}
+
+.wd-bookmark-img-text {
+  margin:0px;
+  font-size:15px;
+}
+
+.wd-bookmark-content-img-text-div {
+  display:inline-block;
+  padding:12px;
+  width:calc(504px - 24px);
+  border-width:1px;
+  border-style:solid;
+  border-bottom-left-radius:15px;
+  border-bottom-right-radius:15px;
+  margin-top:-5px;
+}
+
+.wd-button-row {
+  font-size:15px;
+  padding:12px;
+  height:20px
+}
+
+.wd-button-div {
+  width:calc(504px/4);
+  float:left;
+}
+
+.wd-button-icon {
+  float:left;
+  margin-right:12px;
+}
+
+.wd-button-heart {
+  color:red;
+}
+
