@@ -1,0 +1,44 @@
+[
+  {
+    "_id": 1,
+    "topic": "Space",
+    "userName": "SpaceX",
+    "time": "2h",
+    "title": "100s of SpaceX Starships land on Mars after a 6 month journey. 1000s of Martian colonists being building Mars Base 1",
+    "image": "spacex.jpeg",
+    "liked": false,
+    "replies": 123,
+    "retuits": 432,
+    "likes": 2345,
+    "handle": "@spacex",
+    "tuit": "You want to wake up in the morning and think the future is going to be great - and that’s what being a spacefaring civilization is all about. It’s about believing in the future and thinking that the future will be better than the past. And I can’t think of anything more exciting than going out there and being among the stars"
+  },
+  {
+    "_id": 2,
+    "topic": "Space",
+    "userName": "SpaceX",
+    "time": "4h",
+    "title": "Aliens on Mars!!!",
+    "image": "spacex.jpeg",
+    "liked": true,
+    "replies": 3838,
+    "retuits": 4982,
+    "likes": 5000,
+    "handle": "@spacex",
+    "tuit": "Bruh we found Aliens on Mars..."
+  },
+  {
+    "_id": 3,
+    "topic": "EVs",
+    "userName": "Tesla",
+    "time": "6h",
+    "title": "No more EVs",
+    "image": "tesla.png",
+    "liked": true,
+    "replies": 76,
+    "retuits": 2,
+    "likes": 29837,
+    "handle": "@tesla",
+    "tuit": "Elongated Muskrat has sold all his shares in Tesla and run away to the Democratic Republic of the Congo..."
+  }
+]
